@@ -2,8 +2,12 @@
 
 # Issue 2 - Up-Sampling: Bilinear Interpolation双线性插值
 
+![](https://images2015.cnblogs.com/blog/904258/201603/904258-20160305184525205-215659449.jpg)
+![](https://user-images.githubusercontent.com/26485327/45526107-d2c65180-b810-11e8-9a56-fdc6e09187c9.png)
 
-
+Reference
+1. [双线性插值原理与实现](https://www.cnblogs.com/hustlx/p/5245504.html)
+2. [双线性插值算法的详细总结](https://blog.csdn.net/sinat_33718563/article/details/78825971)
 
 # Issue 1 - Black and white zone of mask images
 
