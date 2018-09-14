@@ -1,5 +1,10 @@
 # TGS_Salt_Identification_Challenge_Kaggle
 
+# Issue 2 - Up-Sampling: Bilinear Interpolation双线性插值
+
+
+
+
 # Issue 1 - Black and white zone of mask images
 
 **White = Salt**
